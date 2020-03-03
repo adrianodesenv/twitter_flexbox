@@ -7,3 +7,5 @@ https://www.cartoonify.de/
 Live server para mudança auto no browser : Cmd + shift + P para habilitar
 
 content max: 1200px
+
+![Image do Twitter Flexbox](https://github.com/adrianodesenv/twitter_flexbox/images/screenshot.png)
